@@ -4,7 +4,7 @@
 * Constantino Manuel Domingos Gola
 * Nicklânder Kiakuenda Amândio Metusal Bueia
 * João Miguel Francisco
-* Gelson Cabuco
+* Gelson Manuel José André Cabuco
 
 Implementação de um mini **Pac-Man em Assembly para o simulador PEPE-16**, com:
 - **Pac-Man 3x3** controlado pelo teclado
@@ -147,3 +147,4 @@ A rotina `ativar_segundo_fantasma` usa `contador_decimal` para decidir quando at
 - [x] Bordas vermelhas visíveis  
 
 ---
+
