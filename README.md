@@ -147,13 +147,3 @@ A rotina `ativar_segundo_fantasma` usa `contador_decimal` para decidir quando at
 - [x] Bordas vermelhas visíveis  
 
 ---
-
-## 📄 Licença
-Uso académico/educacional. Ajuste conforme o teu enunciado/professor exija.
-
----
-
-## Autor
-Projeto desenvolvido por: **(coloca teu nome aqui)**  
-Curso/Unidade Curricular: **(coloca aqui)**  
-Ano: **2025/2026**
